@@ -5,7 +5,7 @@
 **Live app:** https://ml-assignment2-2026aj05529.streamlit.app/
 
 ## a. Problem statement
-<WRITE 2-3 LINES: predict whether an online shopping session ends in a purchase from browsing-behaviour features, and why that matters to an e-commerce business>
+Online stores get many visitors, but only a small share of browsing sessions end in a purchase. The goal is to predict from a session's browsing behaviour (pages visited, time spent, bounce and exit rates, page value, month, visitor type) whether it will end in a purchase (`Revenue`). Five classification models are trained and compared on the same data, using metrics suited to an imbalanced target (about 15.5% purchases).
 
 ## b. Dataset description
 | Item | Value |

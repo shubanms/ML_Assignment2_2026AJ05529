@@ -2,7 +2,7 @@
 
 **Name:** Shuban M S  **BITS ID:** 2026AJ05529  **Course:** Machine Learning, M.Tech AIML (WILP)
 
-**Live app:** <STREAMLIT_APP_LINK>
+**Live app:** https://ml-assignment2-2026aj05529.streamlit.app/
 
 ## a. Problem statement
 <WRITE 2-3 LINES: predict whether an online shopping session ends in a purchase from browsing-behaviour features, and why that matters to an e-commerce business>
